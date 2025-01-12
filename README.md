@@ -17,6 +17,7 @@ You can install all dependencies by running:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## How to Use
 Download Historical Stock Data: The stock data is fetched using the yfinance library. You can change the stock symbol (e.g., AAPL for Apple) in the code.

@@ -31,9 +31,9 @@ Prediction and Visualization: After training, the model predicts stock prices on
 ## Customizing for Different Stocks
 To predict stock prices for a different company, just modify the symbol variable in the Main Script section to the stock ticker you want to analyze (e.g., "TSLA" for Tesla).
 
-python
-Copy code
+```bash
 symbol = "TSLA"  # Example: Tesla stock
+```
 ## Model Hyperparameters
 You can adjust the following parameters for different results:
 
